@@ -1,0 +1,8 @@
+pandas
+scikit-learn
+flask
+watchdog
+faker
+scikit-surprise 
+joblib
+numpy==1.26.4
